@@ -1,0 +1,8 @@
+/* src/index.css */
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: "Noto Sans JP", "sans-serif";
+  --color-brand: #ffcb05;
+  --color-brand-dark: #b98c00;
+}
